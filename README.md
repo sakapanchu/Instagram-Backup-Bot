@@ -5,13 +5,17 @@ A simple and efficient Python-based bot to automate the process of backing up yo
 ## Features
 
 -Automated Backup: Automatically backs up your Instagram account data including posts, photos, and more.
+
 -User-Friendly: Simple setup and usage with a straightforward command-line interface.
+
 -Secure Storage: Stores your Instagram data safely on your local machine.
 
 ## Tech Stack
 
 -Python: Main programming language used for scripting the bot.
+
 -Instaloader: A powerful Python library to download Instagram data.
+
 File Handling: Efficient management and storage of backup files.
 
 ## Prerequisites
@@ -19,9 +23,12 @@ File Handling: Efficient management and storage of backup files.
 Before you begin, ensure you have met the following requirements:
 
 -Python 3.x installed on your machine.
+
 -An Instagram account.
+
 -Instaloader library installed. You can install it via pip:
 
-    Copy code
+ Copy code
+ 
     pip install instaloader
     
